@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-starter-tailwindcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:melanienolan/gatsby-starter-tailwindcss.git",
+  "author": "Melanie Nolan <melanie.nolan@yahoo.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.21.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
