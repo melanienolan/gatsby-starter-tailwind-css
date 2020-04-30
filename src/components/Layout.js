@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 const Layout = ({ children }) => {
   return (
@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
       <main>{children}</main>
       <footer></footer>
     </>
-  );
-};
+  )
+}
 
-export default Layout;
+export default Layout

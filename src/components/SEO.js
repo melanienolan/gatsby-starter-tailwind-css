@@ -1,9 +1,9 @@
-import React from "react";
-import { Helmet } from "react-helmet";
-import useSiteMetadata from "../hooks/useSiteMetadata";
+import React from "react"
+import { Helmet } from "react-helmet"
+import useSiteMetadata from "../hooks/useSiteMetadata"
 
 const SEO = () => {
-  const { title, description } = useSiteMetadata();
+  const { title, description } = useSiteMetadata()
 
   return (
     <Helmet>
@@ -16,7 +16,7 @@ const SEO = () => {
       <meta property="description" content={description} />
       <title>{title}</title>
     </Helmet>
-  );
-};
+  )
+}
 
-export default SEO;
+export default SEO
