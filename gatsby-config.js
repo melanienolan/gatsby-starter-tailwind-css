@@ -1,3 +1,8 @@
+const resolveConfig = require("tailwindcss/resolveConfig")
+const tailwindConfig = require("./tailwind.config.js")
+
+const { theme } = resolveConfig(tailwindConfig)
+
 module.exports = {
   siteMetadata: {
     title: "Gatsby Starter TailwindCSS",
@@ -15,8 +20,8 @@ module.exports = {
         name: "Gatsby Starter TailwindCSS",
         short_name: "Gatsby Starter TailwindCSS",
         start_url: "/",
-        background_color: "#38b2ac",
-        theme_color: "#38b2ac",
+        background_color: theme.colors.white,
+        theme_color: theme.colors.teal[500],
         icon: "src/images/icon.svg",
       },
     },
