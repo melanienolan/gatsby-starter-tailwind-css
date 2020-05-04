@@ -15,7 +15,7 @@ This starter uses Tailwind CSS version 1.4.1 and therefore includes built-in Pur
 
 ## Demo site
 
-The demo site can be found [here]()
+The demo site can be found [here](https://gatsby-starter-tailwind-css.netlify.app/)
 
 ## Get started
 
