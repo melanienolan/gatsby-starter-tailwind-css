@@ -1,4 +1,4 @@
-# Gatsby Starter TailwindCSS
+# Gatsby Starter Tailwind CSS
 
 Start your project quickly with this Tailwind CSS starter. This starter provides you with the basics to get up and running quickly with [Tailwind CSS](https://tailwindcss.com/).
 
@@ -24,7 +24,7 @@ The demo site can be found [here]()
 Use the Gatsby CLI (`npm install -g gatsby-cli` if you don't have it already) to create your Gatsby site with Gatsby Starter Tailwind CSS:
 
 ```bash
-gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwindcss
+gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwind-css
 ```
 
 2. **Start developing**

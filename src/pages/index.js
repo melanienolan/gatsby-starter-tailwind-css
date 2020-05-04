@@ -25,7 +25,7 @@ export default () => {
 
         <div className="mx-auto">
           <a
-            href="https://github.com/melanienolan/gatsby-starter-tailwindcss"
+            href="https://github.com/melanienolan/gatsby-starter-tailwind-css"
             className="p-4 bg-teal-500 text-white text-xs rounded shadow hover:bg-teal-400"
           >
             View on GitHub
@@ -35,7 +35,7 @@ export default () => {
         <div className="flex items-center p-3 mx-2 bg-white rounded shadow-xs sm:mx-auto">
           <code className="text-gray-600 text-xs leading-xl">
             gatsby new my-project-name
-            https://github.com/melanienolan/gatsby-starter-tailwindcss
+            https://github.com/melanienolan/gatsby-starter-tailwind-css
           </code>
         </div>
       </main>

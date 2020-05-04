@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
       <SEO />
       <div className="flex flex-col min-h-screen bg-gray-200">
         <header className="p-4 bg-teal-500 text-white font-semibold">
-          <h1 className="max-w-4xl mx-auto">gatsby-starter-tailwindcss</h1>
+          <h1 className="max-w-4xl mx-auto">gatsby-starter-tailwind-css</h1>
         </header>
         {children}
         <footer className="py-2 text-center text-gray-600 text-xs">
