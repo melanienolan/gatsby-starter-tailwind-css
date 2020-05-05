@@ -4,7 +4,7 @@ Start your project quickly with this Tailwind CSS starter. This starter provides
 
 [Tailwind CSS](https://tailwindcss.com/) is a utility-first CSS framework for rapidly building custom designs.
 
-This starter uses Tailwind CSS version 1.4.1 and therefore includes built-in PurgeCSS support through Tailwind itself. The starter sets you up with the following:
+This starter uses Tailwind CSS v1.4.1 and therefore includes built-in PurgeCSS support through Tailwind itself. The starter sets you up with the following:
 
 - `src/css/tailwind.css` where Tailwind's `base`, `components` and `utilities` directives are injected
 - `tailwind.config.js` where you can customise the [Tailwind configuration](https://tailwindcss.com/docs/configuration/)
@@ -36,4 +36,4 @@ cd my-project-name
 gatsby develop
 ```
 
-Now you'll be all set to go ahead and create your site with Tailwind CSS!
+Now you'll be all set to go ahead and create your Gatsby site with Tailwind CSS!
