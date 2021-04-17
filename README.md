@@ -23,6 +23,8 @@ The demo site can be found [here](https://gatsby-starter-tailwind-css.netlify.ap
 
 Use the Gatsby CLI (`npm install -g gatsby-cli` if you don't have it already) to create your Gatsby site with Gatsby Starter Tailwind CSS:
 
+Take a look at the [Tailwind CSS guide](https://tailwindcss.com/docs/guides/gatsby) about setting it up and configurint it for GatsbyJs.
+
 ```bash
 gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwind-css
 ```
